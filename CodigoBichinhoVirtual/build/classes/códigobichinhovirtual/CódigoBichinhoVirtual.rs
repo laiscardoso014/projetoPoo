@@ -1,0 +1,3 @@
+códigobichinhovirtual.CódigoBichinhoVirtual$CódigoBichinhoVirtual
+códigobichinhovirtual.CódigoBichinhoVirtual
+códigobichinhovirtual.Animal
